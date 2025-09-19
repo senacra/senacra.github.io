@@ -1,3 +1,4 @@
 baseURL = 'https://senacra.github.io/'
 languageCode = 'en-us'
 title = 'Empty Site'
+theme = 'ananke'
